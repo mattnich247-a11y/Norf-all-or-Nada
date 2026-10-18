@@ -1,0 +1,6 @@
+{
+  "name": "Foam Strike: Tactical Foam-Dart Shooter",
+  "description": "Tactical 2D top-down multiplayer foam-dart shooter with ballistics, scavenging, and real-time WebRTC multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
